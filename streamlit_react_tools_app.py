@@ -12,8 +12,8 @@ from database_tools import text_to_sql, init_database, get_database_info
 # --- 1. Page Configuration and Title ---
 
 # Set the title and a caption for the web page
-st.title("💬 SQL Assistant with LangGraph")
-st.caption("A chatbot that can answer questions about sales data using SQL")
+st.title("💬 -SQL Fitra Ajax Assistant- dibuat dengan sepenuh hati dengan LangGraph")
+st.caption("tanya o apapun tentang data penjualan saja, jangan sak karep e dewe yaa gesd !!!")
 
 # --- 2. Sidebar for Settings ---
 
